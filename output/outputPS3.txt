@@ -1,0 +1,4 @@
+Shortest route from DC 'a' to reach Warehouse 'j' is [a,d,g,k,j]
+and it has minimum travel distance 18.0 km 
+and it will take him 27.0 minutes to travel from DC to Warehouse.
+ 
